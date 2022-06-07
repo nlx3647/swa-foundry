@@ -1,1 +1,20 @@
-
+{
+  "name": "swa",
+  "title": "Star Wars Adversaries",
+  "description": "<p>Enjoy these adversaries! Every single adversary from the books included. Original at http://swa.stoogoff.com/</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9.269",
+  "compatibleCoreVersion": "9.269",
+  "author": "nlx3647",
+  "packs": [
+    {
+      "name": "adversaries",
+      "label": "nlx3647 - Star Wars Adversaries",
+      "path": "/packs/swa.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://www.github.com/nlx3647",
+  "manifest": "https://github.com/nlx3647/swa-foundry/module.json",
+  "download": "https://github.com/nlx3647/swa-foundry/swa-1.0.0.zip"
+}
