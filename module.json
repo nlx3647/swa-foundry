@@ -3,8 +3,6 @@
   "title": "Star Wars Adversaries",
   "description": "<p>Enjoy these adversaries! Every single adversary from the books included. Original at http://swa.stoogoff.com/</p>",
   "version": "1.0.0",
-  "minimumCoreVersion": "9.269",
-  "compatibleCoreVersion": "9.269",
   "author": "nlx3647",
   "packs": [
     {
